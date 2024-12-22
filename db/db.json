@@ -1,14 +1,3 @@
 {
-    "users": [
-        {
-            "id": "1",
-            "fullName": "Javohir Jo'rayev",
-            "age": "18"
-        },
-        {
-            "id": "2",
-            "fullName": "lorem Ipsum",
-            "age": "28"
-        }
-    ]
+  "users": []
 }
